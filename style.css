@@ -9,11 +9,14 @@ header {
 }
 .menu a {
   display: block;
-  padding: 8px;
+  padding: 10px;
   background-color: #dddddd;
 }
 .navigation ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+footer{
+  background-color:indianred;
 }
