@@ -1,8 +1,17 @@
-.logo{
-  
+.menu li{
+  display:inline;
+  float: left;
 }
-.home ul{
-  clist-style-type: none;
+.menu a{
+  display:block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+.navigation ul{
+  list-style-type: none;
   margin: 0;
   padding: 0;
+}
+.nav{
+  background-color:black
 }
