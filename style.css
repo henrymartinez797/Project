@@ -1,3 +1,7 @@
 div.navigation {
-  background-color:red;
+  background-color:LightCoral;
+}
+li {
+  display: inline;
+  float: left;
 }
