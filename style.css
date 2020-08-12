@@ -14,16 +14,20 @@ header {
 .menu a {
   display: block;
   padding: 10px;
-  background-color: #dddddd;
+  background-color:indianred;
+  color:white;
 }
 .navigation ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-footer {
+.bottom{
   text-align: center;
   padding: 3px;
   background-color:firebrick;
   color: white;
+  }
+.bottom a{
+  color:white;
 }
