@@ -1,11 +1,11 @@
 .logo img{
-  image-size:10%;
   display:block;
 }
 header {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  background-color:firebrick;
 }
 .menu li {
   display: inline;
