@@ -1,17 +1,19 @@
-.menu li{
-  display:inline;
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.menu li {
+  display: inline;
   float: left;
 }
-.menu a{
-  display:block;
+.menu a {
+  display: block;
   padding: 8px;
   background-color: #dddddd;
 }
-.navigation ul{
+.navigation ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-}
-.nav{
-  background-color:black
 }
