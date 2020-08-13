@@ -19,6 +19,9 @@ header {
   color:white;
   text-decoration:none;
 }
+.menu a:hover{
+  background-color:black;
+}
 .navigation ul {
   list-style-type: none;
   margin: 0;
