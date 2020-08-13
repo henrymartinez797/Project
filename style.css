@@ -27,12 +27,13 @@ header {
   margin: 0;
   padding: 0;
 }
-.boredimage img {
-  display: block;
+.boredemoji img {
+  float::
 }
 .intro p {
   font-family: Arial;
-  text-align: right;
+  display: inline;
+  float: left;
 }
 .bottom {
   float: center;
