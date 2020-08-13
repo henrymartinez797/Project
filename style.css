@@ -10,6 +10,7 @@ header {
 .menu li {
   display: inline;
   float: left;
+  font-family:Arial;
 }
 .menu a {
   display: block;
@@ -28,8 +29,10 @@ header {
   padding: 3px;
   background-color:firebrick;
   color: white;
+  font-family:Arial;
   }
 .bottom a{
   color:white;
   text-decoration:none;
+  font-family:Arial;
 }
