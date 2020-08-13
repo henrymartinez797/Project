@@ -42,7 +42,7 @@ header {
 }
 .intro p{
   text-align:right;
-  display:inline;
+  font-size:20px;
 }
 .intro{
   display:inline;
