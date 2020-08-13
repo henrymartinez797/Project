@@ -1,41 +1,44 @@
-.logo img{
-  display:block;
+.logo img {
+  display: block;
 }
 header {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color:firebrick;
+  background-color: firebrick;
 }
 .menu li {
   display: inline;
   float: left;
-  font-family:Arial;
+  font-family: Arial;
 }
 .menu a {
   display: block;
   padding: 10px;
-  background-color:indianred;
-  color:white;
-  text-decoration:none;
+  background-color: indianred;
+  color: white;
+  text-decoration: none;
 }
-.menu a:hover{
-  background-color:black;
+.menu a:hover {
+  background-color: black;
 }
 .navigation ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-.bottom{
+.bottom {
   text-align: center;
   padding: 3px;
-  background-color:firebrick;
+  background-color: firebrick;
   color: white;
-  font-family:Arial;
-  }
-.bottom a{
-  color:white;
-  text-decoration:none;
-  font-family:Arial;
+  font-family: Arial;
+}
+.bottom a {
+  color: white;
+  text-decoration: none;
+  font-family: Arial;
+}
+.intro p {
+  font-family: Arial;
 }
