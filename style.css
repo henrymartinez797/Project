@@ -27,8 +27,15 @@ header {
   margin: 0;
   padding: 0;
 }
+.boredimage img {
+  display: block;
+}
+.intro p {
+  font-family: Arial;
+  text-align: right;
+}
 .bottom {
-  float:center;
+  float: center;
   text-align: center;
   padding: 3px;
   background-color: firebrick;
