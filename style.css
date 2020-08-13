@@ -28,6 +28,7 @@ header {
   padding: 0;
 }
 .bottom {
+  float:center;
   text-align: center;
   padding: 3px;
   background-color: firebrick;
@@ -38,12 +39,4 @@ header {
   color: white;
   text-decoration: none;
   font-family: Arial;
-}
-.intro p {
-  font-family: Arial;
-  
-}
-.boredimage img {
-  display: block;
-  style-float:left;
 }
