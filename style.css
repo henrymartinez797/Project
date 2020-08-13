@@ -40,3 +40,10 @@ header {
   text-decoration: none;
   font-family: Arial;
 }
+.intro p{
+  text-align:right;
+  display:inline;
+}
+.intro{
+  display:inline;
+}
