@@ -41,7 +41,8 @@ header {
   font-family: Arial;
 }
 .intro p{
-  text-align:right;
+  font-family:Arial;
+  float:right;
   font-size:20px;
 }
 .intro{
