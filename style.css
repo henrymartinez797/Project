@@ -16,6 +16,7 @@ header {
   padding: 10px;
   background-color:indianred;
   color:white;
+  text-decoration:none;
 }
 .navigation ul {
   list-style-type: none;
@@ -30,4 +31,5 @@ header {
   }
 .bottom a{
   color:white;
+  text-decoration:none;
 }
