@@ -42,3 +42,6 @@ header {
 .intro p {
   font-family: Arial;
 }
+.boredimage img{
+  display:block;
+}
