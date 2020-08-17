@@ -2,9 +2,9 @@
   display: block;
 }
 header {
-  display: flex;
+/*   display: flex;
   justify-content: space-around;
-  align-items: center;
+  align-items: center; */
   background-color: firebrick;
 }
 .menu li {
@@ -52,5 +52,5 @@ header {
 border:dashed;
 }
 .intro p{
-  
+  font-size:30px;
 }
