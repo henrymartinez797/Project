@@ -54,3 +54,6 @@ border:dashed;
 .intro p{
   font-size:30px;
 }
+.carousel-inner img{
+  style:width:40;;
+}
