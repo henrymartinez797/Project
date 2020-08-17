@@ -48,3 +48,9 @@ header {
 .intro{
   display:inline;
 }
+.intro img{
+border:dashed;
+}
+.intro p{
+  
+}
