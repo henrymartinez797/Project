@@ -2,7 +2,7 @@
   display: block;
 }
 header {
-/*   display: flex;
+  /*   display: flex;
   justify-content: space-around;
   align-items: center; */
   background-color: firebrick;
@@ -40,17 +40,17 @@ header {
   text-decoration: none;
   font-family: Arial;
 }
-.intro p{
-  font-family:Arial;
-  float:right;
-  font-size:20px;
+.intro p {
+  font-family: Arial;
+  float: right;
+  font-size: 20px;
 }
-.intro{
-  display:inline;
+.intro {
+  display: inline;
 }
-.intro img{
-border:dashed;
+.intro img {
+  border: dashed;
 }
-.intro p{
-  font-size:30px;
+.intro p {
+  font-size: 30px;
 }
