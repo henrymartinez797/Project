@@ -54,3 +54,7 @@ header {
 .intro p {
   font-size: 30px;
 }
+.media img{
+  padding: 30px;
+  width:500px;
+}
