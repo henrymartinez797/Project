@@ -1,6 +1,7 @@
 :root {
   --firebrick : firebrick;
 }
+
 .logo img {
   display: block;
 }
@@ -63,4 +64,41 @@ header {
 }
 .media-body p .media-body h5 {
   padding: 30px;
+}
+
+
+/* // Small devices (portrait phones, 576px and up) */
+@media (max-width: 575px) {
+  body {
+    background-color: orange;
+  }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  body {
+    background-color: pink;
+  }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  body {
+    background-color: green;
+  }
+  
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  body {
+    background-color: purple;
+  }
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  body {
+    background-color: yellow;
+  }
 }
