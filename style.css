@@ -1,3 +1,6 @@
+:root {
+  --firebrick : firebrick;
+}
 .logo img {
   display: block;
 }
@@ -5,7 +8,7 @@ header {
   /*   display: flex;
   justify-content: space-around;
   align-items: center; */
-  background-color: firebrick;
+  background-color: var(--firebrick);
 }
 .menu li {
   display: inline;
@@ -31,7 +34,7 @@ header {
   float: center;
   text-align: center;
   padding: 3px;
-  background-color: firebrick;
+  background-color: var(--firebrick);
   color: white;
   font-family: Arial;
 }
