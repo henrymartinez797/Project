@@ -1,0 +1,92 @@
+:root {
+  --firebrick : firebrick;
+}
+
+.logo img {
+  display: block;
+}
+header {
+  /*   display: flex;
+  justify-content: space-around;
+  align-items: center; */
+  background-color: var(--firebrick);
+}
+.menu li {
+  display: inline;
+  float: left;
+  font-family: Arial;
+}
+.menu a {
+  display: block;
+  padding: 10px;
+  background-color: indianred;
+  color: white;
+  text-decoration: none;
+}
+.menu a:hover {
+  background-color: black;
+}
+.navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.bottom {
+  float: center;
+  text-align: center;
+  padding: 3px;
+  background-color: var(--firebrick);
+  color: white;
+  font-family: Arial;
+}
+.bottom a {
+  color: white;
+  text-decoration: none;
+  font-family: Arial;
+}
+.intro p {
+  font-family: Arial;
+  float: right;
+  font-size: 20px;
+}
+.intro {
+  display: inline;
+}
+.intro img {
+  border: dashed;
+}
+.intro p {
+  font-size: 30px;
+}
+.media img {
+  padding: 30px;
+  width: 300px;
+}
+.media-body p .media-body h5 {
+  padding: 30px;
+}
+
+
+/* // Small devices (portrait phones, 576px and up) */
+@media (max-width: 575px) {
+  .media-container .media {
+    flex-direction: column;
+  }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}
